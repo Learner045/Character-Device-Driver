@@ -1,0 +1,15 @@
+https://www.tldp.org/LDP/lkmpg/2.6/html/x569.html
+
+http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/
+
+https://embetronicx.com/tutorials/linux/device-drivers/device-file-creation-for-character-drivers/
+
+https://stackoverflow.com/questions/8697300/how-to-create-a-device-in-dev-automatically-upon-loading-of-the-kernel-module-f
+
+https://www.oreilly.com/library/view/linux-device-drivers/0596005903/ch03.html
+
+https://www.xml.com/ldd/chapter/book/ch03.html
+
+
+https://gist.github.com/strezh/b01fcd50875c214e510a81c6aa6d2a2a
+
